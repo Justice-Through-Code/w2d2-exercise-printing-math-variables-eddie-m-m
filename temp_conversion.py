@@ -38,7 +38,7 @@ convert_34_2_to_celsius()
 
 def convert_5_to_fahrenheit():
     # Convert a temperature of 5 degrees celsius to fahrenheit and print it out
-    print((34.2 * (9 / 5) + 32))
+    print((5 * (9 / 5) + 32))
 
 
 convert_5_to_fahrenheit()
